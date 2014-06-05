@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D9C29A1194057D400DC431A /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D9C299F194057D400DC431A /* SettingsViewController.m */; };
+		3D9C29A2194057D400DC431A /* SettingsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C29A0194057D400DC431A /* SettingsViewController.xib */; };
 		3DA68E4D193FD77B00B7DC4B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DA68E4C193FD77B00B7DC4B /* Foundation.framework */; };
 		3DA68E4F193FD77B00B7DC4B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DA68E4E193FD77B00B7DC4B /* CoreGraphics.framework */; };
 		3DA68E51193FD77B00B7DC4B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DA68E50193FD77B00B7DC4B /* UIKit.framework */; };
@@ -34,6 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D9C299E194057D400DC431A /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		3D9C299F194057D400DC431A /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		3D9C29A0194057D400DC431A /* SettingsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingsViewController.xib; sourceTree = "<group>"; };
 		3DA68E49193FD77B00B7DC4B /* CatTipCalac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatTipCalac.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DA68E4C193FD77B00B7DC4B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3DA68E4E193FD77B00B7DC4B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -119,6 +124,9 @@
 				3DA68E5C193FD77B00B7DC4B /* AppDelegate.m */,
 				3DA68E5E193FD77B00B7DC4B /* Images.xcassets */,
 				3DA68E53193FD77B00B7DC4B /* Supporting Files */,
+				3D9C299E194057D400DC431A /* SettingsViewController.h */,
+				3D9C299F194057D400DC431A /* SettingsViewController.m */,
+				3D9C29A0194057D400DC431A /* SettingsViewController.xib */,
 			);
 			path = CatTipCalac;
 			sourceTree = "<group>";
@@ -230,6 +238,7 @@
 				3DA68E57193FD77B00B7DC4B /* InfoPlist.strings in Resources */,
 				3DA68E5F193FD77B00B7DC4B /* Images.xcassets in Resources */,
 				3DA68E7F193FD7E300B7DC4B /* CalcViewController.xib in Resources */,
+				3D9C29A2194057D400DC431A /* SettingsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +260,7 @@
 				3DA68E5D193FD77B00B7DC4B /* AppDelegate.m in Sources */,
 				3DA68E7E193FD7E300B7DC4B /* CalcViewController.m in Sources */,
 				3DA68E59193FD77B00B7DC4B /* main.m in Sources */,
+				3D9C29A1194057D400DC431A /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,6 +463,7 @@
 				3DA68E77193FD77B00B7DC4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3DA68E78193FD77B00B7DC4B /* Build configuration list for PBXNativeTarget "CatTipCalacTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +472,7 @@
 				3DA68E7A193FD77B00B7DC4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

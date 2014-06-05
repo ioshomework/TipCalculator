@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E77DC03-198C-4D22-8367-D3E8CBB51AC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CatTipCalac</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04A3A972-C988-40F3-887B-861780476DD8</key>
+		<string>ssh://github.com/ioshomework/TipCalculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CatTipCalac.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04A3A972-C988-40F3-887B-861780476DD8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ioshomework/TipCalculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>04A3A972-C988-40F3-887B-861780476DD8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04A3A972-C988-40F3-887B-861780476DD8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CatTipCalac</string>
+		</dict>
+	</array>
+</dict>
+</plist>
